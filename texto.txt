@@ -1,0 +1,3 @@
+Esta é a primeira frase do arquivo.
+Aqui está a segunda frase que estamos adicionando.
+E esta é a terceira frase que será escrita no arquivo.
